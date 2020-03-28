@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109.8" height="126" viewBox="0 0 109.8 126">
+  <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(2 2)">
+    <g id="Group_8036" data-name="Group 8036" transform="translate(-145.001 -395)">
+      <g id="Group_7658" data-name="Group 7658" transform="translate(145.001 395)">
+        <g id="Group_7657" data-name="Group 7657" transform="translate(0 11.255)">
+          <path id="Path_4620" data-name="Path 4620" d="M733.551,274.245a52.9,52.9,0,1,0-105.8,0Z" transform="translate(-627.751 -221.345)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="4"/>
+        </g>
+        <line id="Line_30" data-name="Line 30" x2="23.23" transform="translate(82.57 85.655)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="4"/>
+        <line id="Line_31" data-name="Line 31" x2="67.875" transform="translate(0 85.655)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="4"/>
+        <path id="Path_4621" data-name="Path 4621" d="M660.667,222.56a6.168,6.168,0,0,1-.237-1.787,7.536,7.536,0,0,1,15.073,0,6.961,6.961,0,0,1-.279,2" transform="translate(-615.066 -213.237)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="4"/>
+      </g>
+      <text id="Vendor" transform="translate(196.999 514)" fill="#fff" font-size="20" font-family="Helvetica" letter-spacing="-0.02em"><tspan x="-30.699" y="0">Vendor</tspan></text>
+    </g>
+  </g>
+</svg>
